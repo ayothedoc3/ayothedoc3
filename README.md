@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayothedoc3
+- 👋 Hi, I’m Ayokunle
 - 👀 I’m interested in web developement, html, css, js and python
 - 🌱 I’m currently learning fullstack development
 - 💞️ I’m looking to collaborate on python AI projects 
