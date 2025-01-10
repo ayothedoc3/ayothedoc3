@@ -3,7 +3,7 @@
 I'm a passionate **Full-Stack Developer** crafting scalable web solutions at the intersection of **AI** and **automation**. My expertise lies in building user-friendly applications and leveraging low-code platforms for efficient development.
 
 <div align="center">
-  
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayothedoc)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ayothedoc.com/)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ayothedoc)
@@ -34,19 +34,19 @@ I'm a passionate **Full-Stack Developer** crafting scalable web solutions at the
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=project-name-1&theme=tokyonight)](https://github.com/ayothedoc3/project-name-1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=project-name-2&theme=tokyonight)](https://github.com/ayothedoc3/project-name-2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=n8n&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/n8n)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=lottery&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/lottery)
 
 </div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+ 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayothedoc3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117)
-  
+ 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayothedoc3&theme=tokyonight&hide_border=true&background=0D1117)
-  
+ 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayothedoc3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
 </div>
@@ -59,7 +59,7 @@ I'm always excited to work on:
 - Innovative open-source initiatives
 
 <div align="center">
-  
+ 
 ![Profile Views](https://komarev.com/ghpvc/?username=ayothedoc3&color=blueviolet&style=flat-square)
 
 ✨ **Fun Fact:** I believe in the power of automation to make life easier and more efficient!
