@@ -25,10 +25,10 @@ Here are some of my recent projects:
 - **[Project Name 2](link):** Short description of the project.
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **Twitter:** [Your Twitter Handle](link)
-- **Email:** your.email@example.com
-- **Portfolio:** [Your Portfolio Website](link) *(if applicable)*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayothedoc)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://www.ayothedoc.com/)  
+[![Twitter](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x)](https://x.com/ayothedoc)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:ayothedoc3@gmail.com)  
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayothedoc3&show_icons=true&theme=dark)
