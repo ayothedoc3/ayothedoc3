@@ -19,11 +19,6 @@ I’m excited to collaborate on:
 - **Low-code AI projects** using n8n
 - Open-source contributions
 
-## 🚀 Projects
-Here are some of my recent projects:
-- **[Project Name 1](link):** Short description of the project.
-- **[Project Name 2](link):** Short description of the project.
-
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayothedoc)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://www.ayothedoc.com/)  
