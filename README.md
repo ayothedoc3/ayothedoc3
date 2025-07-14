@@ -96,10 +96,18 @@ const ayokunle = {
 
 <div align="center">
 
-[![n8n Workflows](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=n8n&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/n8n)
-[![Lottery System](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=lottery&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/lottery)
+[![AI Automation Suite](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=ai-automation-suite&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/ai-automation-suite)
+[![Full-Stack Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=fullstack-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/fullstack-dashboard)
 
 </div>
+
+### 🚀 **Quick Project Showcase**
+
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| **🤖 AI Automation Suite** | Intelligent workflow automation using n8n and Python | `Python` `n8n` `API Integration` | [Live Demo](https://your-demo-link.com) \| [Repo](https://github.com/ayothedoc3/ai-automation-suite) |
+| **📊 Analytics Dashboard** | Real-time data visualization and reporting | `React` `Django` `PostgreSQL` | [Live Demo](https://your-demo-link.com) \| [Repo](https://github.com/ayothedoc3/analytics-dashboard) |
+| **🌐 Portfolio Website** | Modern, responsive portfolio with 3D elements | `Next.js` `Three.js` `TailwindCSS` | [Live Demo](https://ayothedoc.com) \| [Repo](https://github.com/ayothedoc3/portfolio) |
 
 ## 📊 GitHub Analytics
 
