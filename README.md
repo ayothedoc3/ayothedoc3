@@ -92,13 +92,6 @@ const ayokunle = {
 - Django REST Framework for scalable APIs
 - Machine learning integration with web applications
 
-## 💡 Featured Projects
-
-<div align="center">
-
-[![AI Automation Suite](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=ai-automation-suite&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/ai-automation-suite)
-[![Full-Stack Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=ayothedoc3&repo=fullstack-dashboard&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ayothedoc3/fullstack-dashboard)
-
 </div>
 
 ### 🚀 **Quick Project Showcase**
