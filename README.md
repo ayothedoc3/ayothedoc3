@@ -2,11 +2,13 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;AI+%26+Automation+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+Solutions+%F0%9F%8C%90;Low-Code+Innovation+Expert+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=Backend+Engineer+%F0%9F%9A%80;Healthcare+Technology+Specialist+%F0%9F%A5;Building+Production+Systems+%F0%9F%8C%90;AI+Integration+Expert+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
-I'm a passionate **Full-Stack Developer** crafting scalable web solutions at the intersection of **AI** and **automation**. My expertise lies in building user-friendly applications and leveraging low-code platforms for efficient development.
+**Backend Engineer** | Former Medical Doctor (MD, MPH) turned Software Engineer
+
+Building production healthcare systems with **Nest.js**, **PostgreSQL**, and **AI integration**. Combining clinical expertise with 5 years of backend development experience to create solutions that healthcare professionals actually want to use.
 
 <div align="center">
  
@@ -19,90 +21,137 @@ I'm a passionate **Full-Stack Developer** crafting scalable web solutions at the
 
 </div>
 
-## 🚀 Current Status
+## 🏥 About Me
 
 ```javascript
 const ayokunle = {
-    pronouns: "He/Him",
-    location: "Building the future, one commit at a time",
-    currentFocus: [
-        "MERN Stack mastery",
-        "AI integration with low-code platforms", 
-        "Python automation & data analysis"
+    role: "Backend Engineer",
+    background: "Medical Doctor (MD) + Master of Public Health (MPH)",
+    location: "Kaunas, Lithuania 🇱🇹 | EU",
+    experience: "5 years production backend development",
+    availability: "Open to contract work | 2 weeks notice",
+    rate: "£400-550/day (Outside IR35)",
+    specialization: [
+        "Healthcare technology & clinical systems",
+        "Backend architecture & API design",
+        "AI/LLM integration (OpenAI GPT-4)",
+        "Database optimization & scaling"
     ],
-    currentlyLearning: ["Advanced React patterns", "Django optimization", "n8n workflows"],
-    workingOn: "AI-powered automation tools",
-    askMeAbout: ["Full-stack development", "AI automation", "Low-code solutions"],
-    funFact: "I believe automation can make life easier and more efficient! ⚡"
+    currentFocus: "Building MedTriage AI - Clinical decision support system",
+    funFact: "I help more patients by building tools for doctors than I did seeing them one-by-one 🩺→💻"
 };
 ```
 
-## 🛠️ Tech Arsenal
+## 🛠️ Core Tech Stack
 
-### **Frontend Development**
+### **Backend & Databases** (5 years production experience)
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+
+</div>
+
+### **AI & Machine Learning**
+<div align="center">
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+</div>
+
+### **Frontend** *(Bonus Skills)*
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 </div>
 
-### **Backend Development**
+### **DevOps & Tools**
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
-
-### **Automation & Low-Code**
-<div align="center">
-
-![n8n](https://img.shields.io/badge/n8n-41BDF5?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
-
-</div>
-
-### **Tools & Technologies**
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
 </div>
 
-## 💼 What I'm Building
+## 💼 Featured Projects
 
-🔥 **Currently Working On:**
-- 🤖 **AI-Powered Automation Suite** - Integrating machine learning with n8n workflows
-- 📊 **Data Analytics Dashboard** - Real-time insights using Python and Django
-- 🌐 **Full-Stack SaaS Platform** - Complete MERN stack application with AI features
+### 🏥 **MedTriage AI** - Clinical Decision Support API
+> AI-powered patient triage system combining clinical expertise with modern backend architecture
 
-🌱 **Learning Journey:**
-- Advanced React patterns and performance optimization
-- Django REST Framework for scalable APIs
-- Machine learning integration with web applications
+- **Tech:** Nest.js, PostgreSQL, OpenAI GPT-4, Next.js
+- **Impact:** Handles 1,000+ triage assessments per minute
+- **Features:** HIPAA-compliant, real-time analytics, intelligent symptom analysis
+- **Architecture:** Microservices, event-driven, scalable design
 
-</div>
+[View Project](https://github.com/ayothedoc3/medtriage-ai) | [Live Demo](#)
 
-### 🚀 **Quick Project Showcase**
+---
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🤖 AI Automation Suite** | Intelligent workflow automation using n8n and Python | `Python` `n8n` `API Integration` | [Live Demo](https://your-demo-link.com) \| [Repo](https://github.com/ayothedoc3/ai-automation-suite) |
-| **📊 Analytics Dashboard** | Real-time data visualization and reporting | `React` `Django` `PostgreSQL` | [Live Demo](https://your-demo-link.com) \| [Repo](https://github.com/ayothedoc3/analytics-dashboard) |
-| **🌐 Portfolio Website** | Modern, responsive portfolio with 3D elements | `Next.js` `Three.js` `TailwindCSS` | [Live Demo](https://ayothedoc.com) \| [Repo](https://github.com/ayothedoc3/portfolio) |
+### 📊 **Healthcare Analytics Dashboard**
+> Real-time revenue and patient analytics platform for healthcare administrators
 
-## 📊 GitHub Analytics
+- **Tech:** Next.js, PostgreSQL, Nest.js API, Chart.js
+- **Performance:** <100ms API response time, 10,000+ daily requests
+- **Features:** Payment integration, financial reporting, data visualization
+
+[View Project](https://github.com/ayothedoc3/whop-analytics-dashboard)
+
+---
+
+### 🤖 **AI Workflow Automation System**
+> Comprehensive automation workflow templates with intelligent search
+
+- **Tech:** Python, FastAPI, n8n, OpenAI API
+- **Scale:** 2,000+ workflow templates organized by category
+- **Achievement:** 100x performance improvement over traditional documentation
+
+[View Project](https://github.com/ayothedoc3/n8n-workflow-templates)
+
+## 🏆 Technical Highlights
+
+**Backend Architecture:**
+- ✅ Designed microservices supporting 50,000+ users
+- ✅ Optimized PostgreSQL queries (10M+ records, <50ms response time)
+- ✅ Built RESTful APIs with comprehensive Swagger documentation
+- ✅ Implemented HIPAA-compliant data handling and encryption
+
+**AI Integration:**
+- ✅ OpenAI GPT-4 integration for clinical decision support
+- ✅ Custom AI agents for healthcare administrative automation
+- ✅ Prompt engineering for medical language understanding
+- ✅ ML model deployment and monitoring
+
+**Performance & Scalability:**
+- ✅ Reduced API response times by 60% through optimization
+- ✅ Implemented caching strategies (90% cache hit rate)
+- ✅ Horizontal scaling with load balancing
+- ✅ Event-driven architecture with message queues
+
+## 🎓 Healthcare Expertise
+
+**Medical Background:**
+- 🩺 Medical Doctor (MD)
+- 📊 Master of Public Health (MPH)
+- 🏥 Clinical experience in hospital settings
+
+**Unique Value:**
+- Bridge between clinical needs and technical implementation
+- Understand healthcare workflows from practitioner perspective
+- HIPAA/GDPR compliance from practical experience, not just theory
+- Design systems that healthcare professionals actually want to use
+
+## 📊 GitHub Stats
 
 <div align="center">
  
@@ -114,46 +163,46 @@ const ayokunle = {
 
 <div align="center">
  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayothedoc3&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayothedoc3&theme=tokyo-night&bg_color=0D1117&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayothedoc3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8)
 
 </div>
 
-## 🏆 Achievements & Metrics
+## 🤝 Open to Collaboration
 
-<div align="center">
+**Currently interested in:**
+- 🏥 Healthcare technology projects
+- 🚀 Backend architecture for startups (especially greenfield projects)
+- 🤖 AI/ML integration in production systems
+- 💼 Contract work (6-12 month engagements)
 
-![](https://github-profile-trophy.vercel.app/?username=ayothedoc3&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+**What I Bring:**
+- Nest.js/Node.js production expertise (5 years)
+- PostgreSQL database design and optimization
+- OpenAI/LLM integration experience
+- Healthcare domain knowledge (clinical workflows, compliance)
+- Startup mentality (comfortable with ambiguity, rapid iteration)
 
-</div>
+## 💬 Let's Connect
 
-## 🤝 Let's Collaborate!
+**Available for:** Backend Engineering contracts | Healthcare technology consulting | AI integration projects
 
-I'm always excited to work on:
+📧 **Email:** [ayothedoc3@gmail.com](mailto:ayothedoc3@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/ayothedoc](https://www.linkedin.com/in/ayothedoc)  
+🌐 **Portfolio:** [ayothedoc.com](https://www.ayothedoc.com/)  
+🐦 **Twitter/X:** [@ayothedoc](https://x.com/ayothedoc)
 
-🔹 **Python Automation Projects** - Streamlining workflows and processes  
-🔹 **AI-Powered Web Applications** - Intelligent solutions that scale  
-🔹 **Low-Code AI Solutions** - Rapid prototyping with n8n and similar platforms  
-🔹 **Open-Source Initiatives** - Contributing to the developer community  
-🔹 **Full-Stack Development** - End-to-end web solutions  
-
-### 📬 Get In Touch
-
-💬 **Looking for collaboration on:**
-- AI/ML integration projects
-- Automation and workflow optimization
-- Full-stack web development
-- Open-source contributions
-
-📧 **Best way to reach me:** [ayothedoc3@gmail.com](mailto:ayothedoc3@gmail.com)
+**Rate:** £400-550/day (Outside IR35) | **Location:** EU (Lithuania) | **Notice:** 2 weeks
 
 <div align="center">
 
 ---
 
-⭐ **If you find my work interesting, consider giving it a star!**
+### 🎯 "Most engineers learn healthcare as they go. I lived it as a doctor for years. That's the difference."
 
-**"Automation isn't just about efficiency—it's about freeing up human creativity to solve bigger problems."** 🚀
+⭐ **If you're building healthcare technology and need a backend engineer who speaks both 'doctor' and 'developer', let's talk!**
+
+---
+
+**💙 From Hospital Wards to Production Servers** | Built with code by a doctor who codes
 
 </div>
